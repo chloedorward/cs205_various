@@ -1,0 +1,72 @@
+Lab 4
+Commenting and documentation (10/10 pts)
+Style (10/10 pts)
+Playability (25/30 pts)
+Functionality (35/40 pts)
+Correct inheritance structure (10/10 pts)
+TOTAL 90/100
+
+Remarks. Very good work, Seth and Chloe.
+
+Strong Robot engine implementation, but some functionality missing (-5 pts). E.g., random teleport did not work in commit e6e3e5e7593e2c01839d55ec6976e41319d3b33d.
+
+Git log looking good.
+
+Minor issues with game flow (-5 pts). E.g., try to make it possible to transition from Robots to Worm or vice versa.
+
+
+Lab 3
+Commenting and documentation (10/10 pts)
+Style (7/10 pts)
+Macro class (Lab 3.1) (5/6 pts)
+BaseClass (Lab 3.1) (4/8 pts)
+Adherence to programming standards (Lab 3.1) (6/6 pts)
+Robots class (incl. unit testing, Lab 3.2) (30/30 pts)
+Worm class (incl. unit testing, Lab 3.2) (30/30 pts)
+TOTAL 90/100
+
+Remarks. Good effort, Chloe and Seth. You lost most points on work from Lab 3.1, where there didn't appear to be inheritance of the BaseClass by Log or Config (-5 pts).
+
+Your Robots and Worm attempts were excellent.
+
+The Git log demonstrated a healthy working style – regular commits coming from both of you.
+
+Poor style (instance variables should be private by default, with getters and setters where appropriate, -3 pts).
+
+The start of methods are well documented. Be sure to insert extra comments when method implementations run to 10+ lines.
+
+No demonstration of timer_start in Worm (-2 pts).
+
+Very good implementations of Robots and Worm engines.
+
+
+Lab 2
+Commenting and documentation (10/10 pts)
+Style (7/10 pts)
+qtrepo set up with appropriate folder structure (Lab 2.1) (8/10 pts)
+Log class (Lab 2.2) (30/30 pts)
+Config class (Lab 2.2) (40/40 pts)
+TOTAL 95/100
+
+Remarks. Excellent work, Seth and Chloe.
+
+The folder structure was not quite as requested (lab rather than tools) and your instance variables need to be private with getters and setters where appropriate (-5 pts).
+
+The Git log demonstrated a healthy working style – regular commits coming from both of you.
+
+Apart from that, the documentation and structure of your code is very good indeed, and unlike many other students, you demonstrated it succinctly for me in main(). Keep up the good work. For Lab 3, use main() and tests to continue excellent demonstration of functionality.
+
+
+Lab 1
+Style (7.5/10 pts)
+Passwordless authentication (Lab 1.1) (40/40 pts)
+Initializing a Git repository (Lab 1.2) (20/20 pts)
+Both lab partners making changes/commits (Lab 1.2) (30/30 pts)
+TOTAL 97.5/100
+
+Remarks. Very good work, Chloe and Seth.
+
+I saw evidence of both of you committing changes to the repo.
+
+There were extra files in your lab .ssh folder, or one level above this (-2.5 pts). Generally throughout semester, try not to leave unnecessary files hanging around.
+
